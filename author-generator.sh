@@ -5,7 +5,7 @@ cd "$(dirname "$(readlink -f "$BASH_SOURCE")")/."
 
 {
 	cat <<- 'EOH'
-		# This file lists all individuals having contributed content to the repository.
+		# This file lists of individuals that helped in the project.
 		
 	EOH
 	echo
